@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 日志
+logs/
+*.log
+
+# 本地数据（文档资料不入库，按 README 放入对应目录即可）
+rag_qa/data/
